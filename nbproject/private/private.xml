@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/1">
+        <file>file:/C:/Users/User/Dropbox/Development/htdocs/fbreflect/protected/controllers/UserController.php</file>
+        <file>file:/C:/Users/User/Dropbox/Development/htdocs/fbreflect/protected/views/user/evaluate_posts.php</file>
+        <file>file:/C:/Users/User/Dropbox/Development/htdocs/fbreflect/protected/views/user/_fbview_eval_notseen.php</file>
+        <file>file:/C:/Users/User/Dropbox/Development/htdocs/fbreflect/protected/views/user/_fbview_eval_seen.php</file>
+        <file>file:/C:/Users/User/Dropbox/Development/htdocs/fbreflect/protected/views/user/evaluate_list.php</file>
+    </open-files>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Aale/Dropbox/Development/htdocs/fbreflect/protected/views/user/_fbview.php</file>
+            <file>file:/C:/Users/Aale/Dropbox/Development/htdocs/fbreflect/protected/controllers/UserController.php</file>
+            <file>file:/C:/Users/Aale/Dropbox/Development/htdocs/fbreflect/protected/views/user/posts.php</file>
+            <file>file:/C:/Users/Aale/Dropbox/Development/htdocs/fbreflect/protected/views/user/index.php</file>
+            <file>file:/C:/Users/Aale/Dropbox/Development/htdocs/fbreflect/protected/models/_base/BasePostData.php</file>
+            <file>file:/C:/Users/Aale/Dropbox/Development/htdocs/fbreflect/protected/models/User.php</file>
+            <file>file:/C:/Users/Aale/Dropbox/Development/htdocs/fbreflect/protected/models/_base/BaseUser.php</file>
+            <file>file:/C:/Users/Aale/Dropbox/Development/htdocs/fbreflect/protected/models/PostData.php</file>
+            <file>file:/C:/Users/Aale/Dropbox/Development/htdocs/fbreflect/protected/extensions/giix-components/GxController.php</file>
+            <file>file:/C:/Users/Aale/Dropbox/Development/htdocs/fbreflect/protected/components/Controller.php</file>
+        </group>
+    </open-files>
+</project-private>
